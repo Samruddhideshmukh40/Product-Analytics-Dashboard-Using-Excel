@@ -1,2 +1,14 @@
-# Product-Analytics-Dashboard-Using-Excel
-This project is an interactive Product Analytics Dashboard built using Microsoft Excel. It provides insights into sales performance, profit distribution, and regional analysis to support data-driven decision-making.
+📊 Product Analytics Dashboard | Excel
+
+An interactive Product Analytics Dashboard built using Microsoft Excel to analyze product performance, profitability, sales trends, and regional insights. The dashboard provides clear visualizations to support data-driven decision-making.
+
+Key Insights & Features:
+📈 Sales Value by Profit analysis
+💰 Product-wise Profit comparison
+📅 Month-wise Profit trends
+🌍 Region-wise Units Sold analysis
+📊 Region-wise Profit and Cost Price comparison
+🎯 Interactive filters for Territory and Month
+📌 KPI-driven visualizations for better business insights
+
+Tools Used: Microsoft Excel, Pivot Tables, Pivot Charts, Slicers, Data Visualization, and Dashboard Design.
